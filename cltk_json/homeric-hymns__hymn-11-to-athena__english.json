@@ -1,0 +1,16 @@
+{
+    "language":"english",
+    "englishTitle":"Hymn 11 To Athena",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg011.perseus-eng2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg011.perseus-eng2-simple",
+    "text":{
+        "0":"Of Pallas Athena, guardian of the city, I begin to sing. Dread is she, and with Ares\n she loves deeds of war, the sack of cities and the shouting and the battle. It is she who\n saves the people as they go out to war and come back. ",
+        "1":"Hail, goddess, and give us good fortune with happiness! "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 11 To Athena",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

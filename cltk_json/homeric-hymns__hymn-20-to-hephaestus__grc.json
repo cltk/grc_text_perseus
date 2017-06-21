@@ -1,0 +1,22 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 20 To Hephaestus",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg020.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg020.perseus-grc2-simple",
+    "text":{
+        "0":"Ἥφαιστον κλυτόμητιν ἀείσεο, Μοῦσα λίγεια, ",
+        "1":"ὃς μετʼ Ἀθηναίης γλαυκώπιδος ἀγλαὰ ἔργα ",
+        "2":"ἀνθρώπους ἐδίδαξεν ἐπὶ χθονός, οἳ τὸ πάρος περ ",
+        "3":"ἄντροις ναιετάασκον ἐν οὔρεσιν, ἠύτε θῆρες. ",
+        "4":" νῦν δὲ διʼ Ἥφαιστον κλυτοτέχνην ἔργα δαέντες ",
+        "5":"ῥηιδίως αἰῶνα τελεσφόρον εἰς ἐνιαυτὸν ",
+        "6":"εὔκηλοι διάγουσιν ἐνὶ σφετέροισι δόμοισιν. ",
+        "7":"ἀλλʼ ἵληθʼ, Ἥφαιστε· δίδου δʼ ἀρετήν τε καὶ ὄλβον. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 20 To Hephaestus",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

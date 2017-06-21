@@ -1,0 +1,20 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 10 to Aphrodite",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg010.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg010.perseus-grc2-simple",
+    "text":{
+        "0":"κυπρογενῆ Κυθέρειαν ἀείσομαι, ἥτε βροτοῖσι ",
+        "1":"μείλιχα δῶρα δίδωσιν, ἐφ᾽ ἱμερτῷ δὲ προσώπῳ ",
+        "2":"αἰεὶ μειδιάει καὶ ἐφ᾽ ἱμερτὸν θέει ἄνθος. ",
+        "3":"χαῖρε, θεά, Σαλαμῖνος ἐυκτιμένης μεδέουσα ",
+        "4":"εἰναλίης τε Κύπρου: δὸς δ᾽ ἱμερόεσσαν ἀοιδήν. ",
+        "5":"αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ᾽ ἀοιδῆς."
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 10 to Aphrodite",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

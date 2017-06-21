@@ -1,0 +1,16 @@
+{
+    "language":"english",
+    "englishTitle":"Hymn 17 To the Dioscuri",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg017.perseus-eng2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg017.perseus-eng2-simple",
+    "text":{
+        "0":"Sing, clear-voiced Muse, of Castor and Polydeuces, the Tyndaridae, who sprang from\n Olympian Zeus. Beneath the heights of Taygetus stately Leda bare them, when the dark-clouded\n Son of Cronos had privily bent her to his will. ",
+        "1":"Hail, children of Tyndareus, riders upon swift horses! "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 17 To the Dioscuri",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

@@ -1,0 +1,15 @@
+{
+    "language":"english",
+    "englishTitle":"Hymn 13 to Demeter",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg013.perseus-eng2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg013.perseus-eng2-simple",
+    "text":{
+        "0":"I begin to sing of rich-haired Demeter, awful goddess, of her and of her daughter lovely Persephone.\n Hail, goddess! Keep this city safe, and govern my song."
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 13 to Demeter",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

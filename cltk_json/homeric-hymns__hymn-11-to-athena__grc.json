@@ -1,0 +1,19 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 11 To Athena",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg011.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg011.perseus-grc2-simple",
+    "text":{
+        "0":"Παλλάδʼ Ἀθηναίην ἐρυσίπτολιν ἄρχομʼ ἀείδειν, ",
+        "1":"δεινήν, ᾗ σὺν Ἄρηι μέλει πολεμήια ἔργα ",
+        "2":"περθόμεναί τε πόληες ἀϋτή τε πτόλεμοί τε, ",
+        "3":"καί τʼ ἐρρύσατο λαὸν ἰόντα τε νισσόμενόν τε. ",
+        "4":"χαῖρε, θεά, δὸς δʼ ἄμμι τύχην εὐδαιμονίην τε. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 11 To Athena",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

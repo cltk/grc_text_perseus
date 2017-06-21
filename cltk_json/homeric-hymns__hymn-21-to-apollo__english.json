@@ -1,0 +1,16 @@
+{
+    "language":"english",
+    "englishTitle":"Hymn 21 To Apollo",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg021.perseus-eng2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg021.perseus-eng2-simple",
+    "text":{
+        "0":"Phoebus, of you even the swan sings with clear voice to the beating of his wings, as\n he alights upon the bank by the eddying river Peneus; and of you the sweet-tongued minstrel,\n holding his high-pitched lyre, always sings both first and last. ",
+        "1":"And so hail to you, lord! I seek your favor with my song. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 21 To Apollo",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

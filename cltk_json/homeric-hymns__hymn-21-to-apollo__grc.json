@@ -1,0 +1,19 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 21 To Apollo",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg021.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg021.perseus-grc2-simple",
+    "text":{
+        "0":"φοῖβε, σὲ μὲν καὶ κύκνος ὑπὸ πτερύγων λίγʼ ἀείδει, ",
+        "1":"ὄχθῃ ἐπιθρώσκων ποταμὸν πάρα δινήεντα, ",
+        "2":"Πηνειόν· σὲ δʼ ἀοιδὸς ἔχων φόρμιγγα λίγειαν ",
+        "3":"ἡδυεπὴς πρῶτόν τε καὶ ὕστατον αἰὲν ἀείδει. ",
+        "4":"καὶ σὺ μὲν οὕτω χαῖρε, ἄναξ, ἵλαμαι δέ σʼ ἀοιδῇ.\n "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 21 To Apollo",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

@@ -1,0 +1,18 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 23 to Zeus",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg023.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg023.perseus-grc2-simple",
+    "text":{
+        "0":"Ζῆνα θεῶν τὸν ἄριστον ἀείσομαι ἠδὲ μέγιστον, ",
+        "1":"εὐρύοπα, κρείοντα, τελεσφόρον, ὅστε Θέμιστι ",
+        "2":"ἐγκλιδὸν ἑζομένῃ πυκινοὺς ὀάρους ὀαρίζει. ",
+        "3":"ἵληθʼ, εὐρύοπα Κρονίδη, κύδιστε μέγιστε. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 23 to Zeus",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

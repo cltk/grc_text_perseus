@@ -1,0 +1,16 @@
+{
+    "language":"english",
+    "englishTitle":"Hymn 16 To Asclepius",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg016.perseus-eng2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg016.perseus-eng2-simple",
+    "text":{
+        "0":"I begin to sing of Asclepius, son of Apollo and healer of sicknesses. In the Dotian\n plain fair Coronis, daughter of King Phlegyas, bare him, a great joy to men, a soother of\n cruel pangs. ",
+        "1":"And so hail to you, lord: in my song I make my prayer to thee! "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 16 To Asclepius",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

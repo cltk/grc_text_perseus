@@ -1,0 +1,19 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 12 to Hera",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg012.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg012.perseus-grc2-simple",
+    "text":{
+        "0":"Ἥρην ἀείδω χρυσόθρονον, ἣν τέκε Ῥείη, ",
+        "1":"ἀθανάτων βασίλειαν, ὑπείροχον εἶδος ἔχουσαν, ",
+        "2":"Ζην`?̀ς ἐριγδούποιο κασιγνήτην ἄλοχόν τε, ",
+        "3":"κυδρήν, ἣν πάντες μάκαρες κατὰ μακρὸν Ὄλυμπον ",
+        "4":"ἁζόμενοι τίουσιν ὁμῶς Διὶ τερπικεραύνῳ. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 12 to Hera",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

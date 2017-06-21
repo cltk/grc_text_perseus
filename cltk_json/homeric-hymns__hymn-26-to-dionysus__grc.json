@@ -1,0 +1,27 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 26 To Dionysus",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg026.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg026.perseus-grc2-simple",
+    "text":{
+        "0":"κισσοκόμην Διόνυσον ἐρίβρομον ἄρχομʼ ἀείδειν, ",
+        "1":"Ζηνὸς καὶ Σεμέλης ἐρικυδέος ἀγλαὸν υἱόν, ",
+        "2":"ὃν τρέφον ἠύκομοι Νύμφαι παρὰ πατρὸς ἄνακτος ",
+        "3":"δεξάμεναι κόλποισι καὶ ἐνδυκέως ἀτίταλλον ",
+        "4":" Νύσης ἐν γυάλοις· ὃ δʼ ἀέξετο πατρὸς ἕκητι ",
+        "5":"ἄντρῳ ἐν εὐώδει μεταρίθμιος ἀθανάτοισιν. ",
+        "6":"αὐτὰρ ἐπειδὴ τόνδε θεαὶ πολύυμνον ἔθρεψαν, ",
+        "7":"δὴ τότε φοιτίζεσκε καθʼ ὑλήεντας ἐναύλους, ",
+        "8":"κισσῷ καὶ δάφνῃ πεπυκασμένος· αἳ δʼ ἅμʼ ἕποντο ",
+        "9":"Νύμφαι, ὃ δʼ ἐξηγεῖτο· βρόμος δʼ ἔχεν ἄσπετον ὕλην. ",
+        "10":"καὶ σὺ μὲν οὕτω χαῖρε, πολυστάφυλʼ ὦ Διόνυσε· ",
+        "11":"δὸς δʼ ἡμᾶς χαίροντας ἐς ὥρας αὖτις ἱκέσθαι, ",
+        "12":"ἐκ δʼ αὖθʼ ὡράων εἰς τοὺς πολλοὺς ἐνιαυτούς. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 26 To Dionysus",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

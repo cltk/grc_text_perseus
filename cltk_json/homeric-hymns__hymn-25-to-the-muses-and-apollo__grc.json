@@ -1,0 +1,21 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 25 To the Muses and Apollo",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg025.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg025.perseus-grc2-simple",
+    "text":{
+        "0":"μουσάων ἄρχωμαι Ἀπόλλωνός τε Διός τε· ",
+        "1":"ἐκ γὰρ Μουσάων καὶ ἑκηβόλου Ἀπόλλωνος ",
+        "2":"ἄνδρες ἀοιδοὶ ἔασιν ἐπὶ χθονὶ καὶ κιθαρισταί, ",
+        "3":"ἐκ δὲ Διὸς βασιλῆες· ὃ δʼ ὄλβιος, ὅν τινα Μοῦσαι ",
+        "4":"φίλωνται· γλυκερή οἱ ἀπὸ στόματος ῥέει αὐδή. ",
+        "5":"χαίρετε, τέκνα Διός, καὶ ἐμὴν τιμήσατʼ ἀοιδήν· ",
+        "6":"αὐτὰρ ἐγὼν ὑμέων τε καὶ ἄλλης μνήσομʼ ἀοιδῆς. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 25 To the Muses and Apollo",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

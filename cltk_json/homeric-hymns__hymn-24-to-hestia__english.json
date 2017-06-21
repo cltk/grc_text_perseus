@@ -1,0 +1,16 @@
+{
+    "language":"english",
+    "englishTitle":"Hymn 24 To Hestia",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg024.perseus-eng2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg024.perseus-eng2-simple",
+    "text":{
+        "0":"Hestia, you who tend the holy house of the lord Apollo, the Far-shooter at goodly\n Pytho , with soft oil dripping ever from your\n locks, come now into this house, come, having one mind ",
+        "1":"with Zeus the all-wise —draw near, and withal bestow grace upon my song. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 24 To Hestia",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

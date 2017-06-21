@@ -1,0 +1,19 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 17 To the Dioscuri",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg017.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg017.perseus-grc2-simple",
+    "text":{
+        "0":"Κάστορα καὶ Πολυδεύκἐ ἀείσεο, Μοῦσα λίγεια, ",
+        "1":"Τυνδαρίδας, οἳ Ζηνὸς Ὀλυμπίου ἐξεγένοντο· ",
+        "2":"τοὺς ὑπὸ Τηϋγέτου κορυφῇς τέκε πότνια Λήδη ",
+        "3":"λάθρη ὑποδμηθεῖσα κελαινεφέι Κρονίωνι. ",
+        "4":"χαίρετε, Τυνδαρίδαι, ταχέων ἐπιβήτορες ἵππων. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 17 To the Dioscuri",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

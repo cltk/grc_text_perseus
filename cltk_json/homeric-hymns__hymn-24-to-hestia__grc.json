@@ -1,0 +1,19 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 24 To Hestia",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg024.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg024.perseus-grc2-simple",
+    "text":{
+        "0":"ἑστίη, ἥτε ἄνακτος Ἀπόλλωνος ἑκάτοιο ",
+        "1":"Πυθοῖ ἐν ἠγαθέῃ ἱερὸν δόμον ἀμφιπολεύεις, ",
+        "2":"αἰεὶ σῶν πλοκάμων ἀπολείβεται ὑγρὸν ἔλαιον· ",
+        "3":"ἔρχεο τόνδʼ ἀνὰ οἶκον, ἕνʼ ἔρχεο θυμὸν ἔχουσα ",
+        "4":"σὺν Διὶ μητιόεντι· χάριν δʼ ἅμʼ ὄπασσον ἀοιδῇ. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 24 To Hestia",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

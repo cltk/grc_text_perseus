@@ -1,0 +1,23 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 9 to Artemis",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg009.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg009.perseus-grc2-simple",
+    "text":{
+        "0":"Ἄρτεμιν ὕμνει, Μοῦσα, κασιγνήτην Ἑκάτοιο. ",
+        "1":"παρθένον ἰοχέαιραν, ὁμότροφον Ἀπόλλωνος, ",
+        "2":"ἥθʼ ἵππους ἄρσασα βαθυσχοίνοιο Μέλητος ",
+        "3":"ῥίμφα διὰ Σμύρνης παγχρύσεον ἅρμα διώκει ",
+        "4":"ἐς Κλάρον ἀμπελόεσσαν, ὅθʼ ἀργυρότοξος Ἀπόλλων ",
+        "5":"ἧσται μιμνάζων ἑκατηβόλον ἰοχέαιραν. ",
+        "6":"καὶ σὺ μὲν οὕτω χαῖρε θεαί θʼ ἅμα πᾶσαι ἀοιδῇ· ",
+        "7":"αὐτὰρ ἐγώ σε πρῶτα καὶ ἐκ σέθεν ἄρχομʼ ἀείδειν, ",
+        "8":"σεῦ δʼ ἐγὼ ἀρξάμενος μεταβήσομαι ἄλλον ἐς ὕμνον. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 9 to Artemis",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

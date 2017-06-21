@@ -1,0 +1,16 @@
+{
+    "language":"english",
+    "englishTitle":"Hymn 25 To the Muses and Apollo",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg025.perseus-eng2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg025.perseus-eng2-simple",
+    "text":{
+        "0":"I will begin with the Muses and Apollo and Zeus. For it is through the Muses and\n Apollo that there are singers upon the earth and players upon the lyre; but kings are from\n Zeus. Happy is he whom the Muses ",
+        "1":"love: sweet flows speech from his lips. Hail, children of Zeus! Give honor to my\n song! And now I will remember you and another song also. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 25 To the Muses and Apollo",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

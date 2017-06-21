@@ -1,0 +1,16 @@
+{
+    "language":"english",
+    "englishTitle":"Hymn 9 to Artemis",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg009.perseus-eng2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg009.perseus-eng2-simple",
+    "text":{
+        "0":"Muse, sing of Artemis, sister of the Far-shooter, the virgin who delights in arrows,\n who was fostered with Apollo. She waters her horses from Meles deep in reeds, and swiftly\n drives her all-golden chariot through Smyrna \n ",
+        "1":"to vine-clad Claros where Apollo, god of the silver bow, sits waiting for the\n far-shooting goddess who delights in arrows. And so hail to you, Artemis, in my song and to\n all goddesses as well. Of you first I sing and with you I begin; now that I have begun with\n you, I will turn to another song. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 9 to Artemis",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

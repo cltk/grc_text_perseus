@@ -1,0 +1,16 @@
+{
+    "language":"english",
+    "englishTitle":"Hymn 10 to Aphrodite",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg010.perseus-eng2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg010.perseus-eng2-simple",
+    "text":{
+        "0":"Of Cytherea, born in Cyprus , I will sing. \n She gives kindly gifts to men: smiles are ever on her lovely face, and lovely is the brightness that plays over it.\n Hail, goddess, queen of well-built Salamis",
+        "1":"and sea-girt Cyprus ; grant me a cheerful song. \n And now I will remember you and another song also."
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 10 to Aphrodite",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

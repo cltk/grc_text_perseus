@@ -1,0 +1,16 @@
+{
+    "language":"english",
+    "englishTitle":"Hymn 20 To Hephaestus",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg020.perseus-eng2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg020.perseus-eng2-simple",
+    "text":{
+        "0":"Sing, clear-voiced Muse, of Hephaestus famed for inventions. With bright-eyed Athena\n he taught men glorious crafts throughout the world, —men who before used to dwell in caves\n in the mountains like wild beasts. ",
+        "1":"But now that they have learned crafts through Hephaestus the famed worker, easily\n they live a peaceful life in their own houses the whole year round. Be gracious, Hephaestus,\n and grant me success and prosperity! "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 20 To Hephaestus",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

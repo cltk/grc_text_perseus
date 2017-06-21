@@ -1,0 +1,16 @@
+{
+    "language":"english",
+    "englishTitle":"Hymn 12 to Hera",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg012.perseus-eng2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg012.perseus-eng2-simple",
+    "text":{
+        "0":"I sing of golden-throned Hera whom Rhea bare. Queen of the immortals is she,\n surpassing all in beauty: she is the sister and the wife of loud-thundering Zeus, —the\n glorious one whom all the blessed throughout high Olympus \n ",
+        "1":"reverence and honor even as Zeus who delights in thunder. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 12 to Hera",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

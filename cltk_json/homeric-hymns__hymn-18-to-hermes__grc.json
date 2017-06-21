@@ -1,0 +1,26 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 18 to Hermes",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg018.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg018.perseus-grc2-simple",
+    "text":{
+        "0":"Ἑρμῆν ἀείδω Κυλλήνιον, Ἀργειφόντην, ",
+        "1":"Κυλλήνης μεδέοντα καὶ Ἀρκαδίης πολυμήλου, ",
+        "2":"ἄγγελον ἀθανάτων ἐριούνιον, ὃν τέκε Μαῖα, ",
+        "3":"Ατλαντος θυγάτηρ, Διὸς ἐν φιλότητι μιγεῖσα, ",
+        "4":"αἰδοίη: μακάρων δὲ θεῶν ἀλέεινεν ὅμιλον, ",
+        "5":"ἄντρῳ ναιετάουσα παλισκίῳ: ἔνθα Κρονίων ",
+        "6":"νύμφῃ ἐυπλοκάμῳ μισγέσκετο νυκτὸς ἀμολγῷ, ",
+        "7":"εὖτε κατὰ γλυκὺς ὕπνος ἔχοι λευκώλενον Ἥρην: ",
+        "8":"λάνθανε δ᾽ ἀθανάτους τε θεοὺς θνητούς τ᾽ ἀνθρώπους. ",
+        "9":"καὶ σὺ μὲν οὕτω χαῖρε, Διὸς καὶ Μαιάδος υἱέ: ",
+        "10":"σεῦ δ᾽ ἐγὼ ἀρξάμενος μεταβήσομαι ἄλλον ἐς ὕμνον. ",
+        "11":"[ χαῖρ᾽. Ἑρμῆ χαριδῶτα, διάκτορε, δῶτορ ἐάων. ]"
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 18 to Hermes",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

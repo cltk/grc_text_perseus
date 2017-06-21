@@ -1,0 +1,21 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 22 To Poseidon",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg022.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg022.perseus-grc2-simple",
+    "text":{
+        "0":"ἀμφὶ Ποσειδάωτα, μέγαν θεόν, ἄρχομʼ ἀείδειν, ",
+        "1":"γαίης κινητῆρα καὶ ἀτρυγέτοιο θαλάσσης, ",
+        "2":"πόντιον, ὅσθʼ Ἑλικῶνα καὶ εὐρείας ἔχει Αἰγάς. ",
+        "3":"διχθά τοι, Ἐννοσίγαιε, θεοὶ τιμὴν ἐδάσαντο, ",
+        "4":"ἵππων τε δμητῆρʼ ἔμεναι σωτῆρά τε νηῶν. ",
+        "5":"χαῖρε, Ποσείδαον γαιήοχε, κυανοχαῖτα, ",
+        "6":"καί, μάκαρ, εὐμενὲς ἦτορ ἔχων πλώουσιν ἄρηγε. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 22 To Poseidon",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

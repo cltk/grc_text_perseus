@@ -1,0 +1,23 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 15 To Heracles",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg015.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg015.perseus-grc2-simple",
+    "text":{
+        "0":"Ἡρακλέα, Διὸς υἱόν, ἀείσομαι, ὃν μέγʼ ἄριστον ",
+        "1":"γείνατʼ ἐπιχθονίων Θήβῃς ἔνι καλλιχόροισιν ",
+        "2":"Ἀλκμήνη μιχθεῖσα κελαινεφέι Κρονίωνι· ",
+        "3":"ὃς πρὶν μὲν κατὰ γαῖαν ἀθέσφατον ἠδὲ θάλασσαν ",
+        "4":" πλαζόμενος πομπῇσιν ὕπʼ Εὐρυσθῆος ἄνακτος ",
+        "5":"πολλὰ μὲν αὐτὸς ἔρεξεν ἀτάσθαλα, πολλὰ δʼ ἀνέτλη· ",
+        "6":"νῦν δʼ ἤδη κατὰ καλὸν ἕδος νιφόεντος Ὀλύμπου ",
+        "7":"ναίει τερπόμενος καὶ ἔχει καλλίσφυρον Ἥβην. ",
+        "8":"χαῖρε, ἄναξ, Διὸς υἱέ· δίδου δʼ ἀρετήν τε καὶ ὄλβον. "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 15 To Heracles",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

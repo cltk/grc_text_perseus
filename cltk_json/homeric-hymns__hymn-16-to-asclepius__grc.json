@@ -1,0 +1,19 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 16 To Asclepius",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg016.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg016.perseus-grc2-simple",
+    "text":{
+        "0":"ἰητῆρα νόσων Ἀσκληπιὸν ἄρχομʼ ἀείδειν, ",
+        "1":"υἱὸν Ἀπόλλωνος, τὸν ἐγείνατο δῖα Κορωνὶς ",
+        "2":"Δωτίῳ ἐν πεδίῳ, κούρη Φλεγύου βασιλῆος, ",
+        "3":"χάρμα μέγʼ ἀνθρώποισι, κακῶν θελκτῆρʼ ὀδυνάων. ",
+        "4":"καὶ σὺ μὲν οὕτω χαῖρε, ἄναξ· λίτομαι δέ σʼ\n ἀοιδῇ."
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 16 To Asclepius",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

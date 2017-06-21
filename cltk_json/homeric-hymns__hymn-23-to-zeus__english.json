@@ -1,0 +1,15 @@
+{
+    "language":"english",
+    "englishTitle":"Hymn 23 to Zeus",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg023.perseus-eng2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg023.perseus-eng2-simple",
+    "text":{
+        "0":"I will sing of Zeus, chiefest among the gods and greatest, all-seeing, the lord of\n all, the fulfiller who whispers words of wisdom to Themis as she sits leaning towards him.\n Be gracious, all-seeing Son of Cronos, most excellent and great! "
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 23 to Zeus",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}

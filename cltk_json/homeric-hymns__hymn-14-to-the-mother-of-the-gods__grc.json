@@ -1,0 +1,20 @@
+{
+    "language":"grc",
+    "englishTitle":"Hymn 14 to the Mother of the Gods",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg014.perseus-grc2",
+    "author":"homeric hymns",
+    "urn":"urn:cts:greekLit:tlg0013.tlg014.perseus-grc2-simple",
+    "text":{
+        "0":"μητέρα μοι πάντων τε θεῶν πάντων τʼ ἀνθρώπων ",
+        "1":"ὕμνει, Μοῦσα λίγεια, Διὸς θυγάτηρ μεγάλοιο, ",
+        "2":"ᾗ κροτάλων τυπάνων τʼ ἰαχὴ σύν τε βρόμος αὐλῶν ",
+        "3":"εὔαδεν ἠδὲ λύκων κλαγγὴ χαροπῶν τε λεόντων ",
+        "4":"οὔρεά τʼ ἠχήεντα καὶ ὑλήεντες ἔναυλοι. ",
+        "5":"καὶ σὺ μὲν οὕτω χαῖρε θεαί θʼ ἅμα πᾶσαι ἀοιδῇ."
+    },
+    "source":"Perseus Digital Library",
+    "originalTitle":"Hymn 14 to the Mother of the Gods",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "meta":"line"
+}
